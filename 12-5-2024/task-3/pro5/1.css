@@ -1,0 +1,55 @@
+
+body{
+
+
+    background-color: green;
+}
+
+.c1{
+    background-color: yellow;
+    width: 90%;
+    height: 90%;
+    float: none;
+position: absolute;
+margin: 250px;
+
+
+}
+.c2{
+
+    background-color: green;  
+    width: 80%;
+    height:70%;
+    float: none;
+    position: absolute;
+    margin: 600px;
+    
+    
+    }
+
+    .c3{
+
+        background-color: yellow;  
+        width: 75%;
+        height:60%;
+        float: none;
+        position: absolute;
+        margin: 760px;
+
+
+
+    }
+
+    .c4{
+
+        background-color: green;  
+        width: 71%;
+        height:52%;
+        float: none;
+        position: absolute;
+        margin: 870px;
+        text-align: center;
+        font-size: 500px; 
+padding-top: 50px;
+
+    }

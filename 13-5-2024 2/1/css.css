@@ -1,0 +1,147 @@
+
+body{
+width: 100%;
+height: 100%;
+}
+.contener_flex{
+    display: flex;
+    border: 1px;
+}
+.d1{
+    margin: 0px;
+    padding: 0px;
+    width: 75%;
+    height: 100%;
+    font-size: 20px;
+}
+.d2{
+
+    margin: 0px;
+    padding: 0%;
+    width: 25%;
+    height: 100%;
+}
+
+.text_color{
+
+color: black;
+}
+
+h4{
+  color: rgb(76, 189, 241);
+
+padding-left: 20px;
+  margin-left: 28px;
+position: absolute;
+float: none;
+
+
+}
+#a111{
+  color: rgb(20, 160, 224);
+}
+h2{
+padding-left: 40px;
+padding-right: 50px;
+padding-top: 25px;
+
+}
+#p1{
+
+font-weight: bold ;
+font-size: 35px;
+position: absolute;
+float: none;
+margin-top: 0px;
+margin-left: 40px;
+}
+
+.text1_1{
+font-size: 18px;
+color: grey;
+margin-left: 40px;
+padding-right: 50px;
+text-align:justify ;
+word-spacing: 1.5px;
+}
+.a11 {
+  font-weight: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#a22{
+color: red;
+font-weight: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.text1_2{
+line-height: 60px;
+margin-left: 6%;
+position: absolute;
+float: none;
+text-transform: capitalize;
+color: rgb(83, 82, 82);
+
+}
+.text1_3{
+
+  position: absolute;
+float: none;
+margin-left: 25%;
+line-height: 60px;
+text-transform: capitalize;
+color: rgb(83, 82, 82);
+}
+
+.call{
+  margin-top: 280px;
+  margin-left: 130px;
+  font-size:22px;
+  color: rgb(83, 82, 82);
+
+}
+
+#call2{
+  width: 10px;
+  height: 10px;
+  padding: 30px;
+  padding-left: 20px;
+  background-color: rgb(20, 160, 224);
+margin-bottom: 60px;
+float: none;
+position: absolute;
+padding-left: 20px;
+}
+
+.a222{
+
+
+  position: absolute;
+  float: none;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+#p22{
+color: rgb(20, 160, 224);
+font-size: 30px;
+position: absolute;
+float: none;
+
+}
+
+.finel{
+margin-left: 128px;
+margin-top: 70px;
+background-color: rgb(20, 160, 224);
+width: 6%;
+height: 3%;
+text-align: center;
+padding: 1%;
+
+
+
+  position: absolute;
+  float: none;
+  color: white;
+
+}

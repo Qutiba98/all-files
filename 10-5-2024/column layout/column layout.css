@@ -1,0 +1,59 @@
+body{
+
+background-color: rgb(230, 230, 157);
+
+}
+
+#body{
+    width: 90%;
+    height: 80%;
+
+    }
+
+
+
+#p1{
+
+background-color: rgb(136, 136, 24);
+width: 80.1%;
+height: 50%;
+margin-left: 4%;
+padding: 20px;
+padding-left: 90px;
+display: inline block;
+
+}
+#p2{
+
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    margin-left: 4%;
+    padding-bottom: 165px;
+    float: left;
+    display: inline block;
+
+}
+
+#p3{
+
+    background-color: rgb(163, 163, 163);
+    width: 100px;
+    padding-bottom: 329px;
+    margin-left: 64%;
+    padding-right: 20.99%;
+    padding-top: 21px;
+    display: inline block;
+
+}
+
+#p4{
+    background-color: rgb(49, 48, 49);
+    width: 69%;
+    padding-bottom: 2px;
+    margin-left: 4%;
+    padding-right: 20.99%;
+    color: white;
+text-align: center;
+
+display: inline block;
+}

@@ -1,0 +1,36 @@
+
+
+
+.contener_flex{
+
+    display: flex;
+    border: 1px;
+
+
+}
+
+
+
+.d1{
+
+    background-color: #f1f1f1;
+    margin: 0px;
+    padding: 20%;
+    font-size: 25px;
+    width: 150px;
+    height: 150px;
+  background-color: DodgerBlue;
+color: white;
+
+}
+.d2{
+
+    background-color: #f1f1f1;
+    margin: 0px;
+    padding: 20%;
+    font-size: 25px;
+    width: 150px;
+    height: 150px;
+  background-color: rgb(224, 161, 2);
+  color: white;
+}

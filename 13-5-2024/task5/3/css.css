@@ -1,0 +1,169 @@
+
+body{
+
+height: 100%;
+width: 100%;
+}
+
+
+.border{
+  border: 90px solid black;
+margin: 0;
+padding: 0;
+
+}
+.contener_flex{
+
+    display: flex;
+    border: 1px;
+    width: 100%;
+    height: 100%;
+flex-wrap: wrap;
+
+}
+
+
+
+.d1{
+justify-content: center;
+align-items: center;
+    background-color: #f1f1f1;
+    margin: 0px;
+    font-size: 30px;
+    width: 25%;
+    height: 700px;
+  background-color: DodgerBlue;
+color: white;
+font-size: 450px;
+text-align: center;
+
+}
+.d2{
+  justify-content: center;
+align-items: center;
+  display: flex;
+  flex: 1;
+    background-color: #f1f1f1;
+    margin: 0px;
+    font-size: 30px;
+    width: 25%;
+    height: 700px;
+  background-color: rgb(224, 161, 2);
+  color: white;
+  font-size: 450px;
+  text-align: center;
+  }
+.d3{
+  
+    justify-content: center;
+  align-items: center;
+      background-color: #f1f1f1;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(15, 20, 106);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+      }
+  .d4{
+  
+    justify-content: center;
+  align-items: center;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(124, 127, 180);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+
+  }
+  .d5{
+  
+    justify-content: center;
+  align-items: center;
+      background-color: #e4b7b7;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+  }
+  .d6{
+  
+    justify-content: center;
+  align-items: center;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(114, 30, 43);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+  }
+  .d7{
+  
+    justify-content: center;
+  align-items: center;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(8, 8, 9);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+  }
+  .d8{
+  
+    justify-content: center;
+  align-items: center;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(35, 180, 122);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+  }
+  .d9{
+  
+    justify-content: center;
+  align-items: center;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(221, 65, 226);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+  }
+  .d10{
+  
+    justify-content: center;
+  align-items: center;
+      margin: 0px;
+      font-size: 30px;
+      width: 25%;
+      height: 700px;
+    background-color: rgb(69, 112, 57);
+    color: white;
+    font-size: 450px;
+    text-align: center;
+    
+  }
+

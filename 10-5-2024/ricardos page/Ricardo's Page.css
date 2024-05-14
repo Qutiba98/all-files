@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(241, 178, 82);
+}
+
+.color_text {
+  color: green;
+}
+
+#top {
+  width: 100%;
+
+  margin-right: auto;
+  text-align: left;
+}
+
+#top2 {
+  width: 10%;
+  margin-bottom: 10px;
+}
+
+#img3 {
+  width: 50px;
+  height: 50px;
+
+  margin-left: 10px;
+  float: left;
+  margin-top: 8px;
+}
+
+#top4 {
+  width: 500px;
+  height: 100px;
+  margin-left: 225px;
+}
+
+#top5 {
+  width: 750px;
+  height: 100px;
+  margin-right: auto;
+  margin-top: 80px;
+}
+
+.top6 {
+  border-color: rgb(179, 110, 175);
+}
+
+#a1 {
+  color: red;
+}

@@ -1,0 +1,34 @@
+body{
+
+
+background-color: white;
+
+}
+
+a{
+color: darkorange;}
+.c1{
+
+
+font-size: 200px;
+color: white;
+background-color: green;
+float: none;
+position: absolute;
+
+}
+
+.c2{
+
+
+
+    background-color: green;  
+    width: 12%;
+    height:52%;
+margin-top: 35px; 
+margin-left: 1170px;
+   text-align: center;
+    font-size: 140px; 
+    color: white;
+
+}

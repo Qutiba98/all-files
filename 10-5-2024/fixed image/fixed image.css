@@ -1,0 +1,23 @@
+body{
+
+background-color: rgb(244, 245, 226)
+
+}
+
+
+#img1{
+
+    margin:auto;
+    position: fixed;
+    background: transparent;
+    width: 100px;
+    height: 450px;
+    top: 20px ;
+    left: 1118px;
+    opacity: 1;
+
+}
+
+
+
+

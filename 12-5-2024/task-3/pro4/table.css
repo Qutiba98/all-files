@@ -1,0 +1,117 @@
+
+
+
+
+.b1{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+    position: fixed;
+    display: inline-block; 
+
+}
+.b2{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 80px;
+    margin-top: 60px;
+    position: fixed;
+    display: inline-block; 
+}
+.b3{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 139px;
+    margin-top: 20px;
+    position: fixed;
+    display: inline-block; 
+}
+.b4{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 198px;
+    margin-top: 60px;
+    position: fixed;
+    display: inline-block; 
+}
+.b5{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 255px;
+    margin-top: 20px;
+    position: fixed;
+    display: inline-block;
+}
+
+.b6{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 315px;
+    margin-top: 60px;
+    position: fixed;
+    display: inline-block; 
+}
+.b7{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 372px;
+    margin-top: 20px;
+    position: fixed;
+    display: inline-block;
+}
+
+.b8{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 430px;
+    margin-top: 60px;
+    position: fixed;
+    display: inline-block; 
+}
+.b9{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: 487px;
+    margin-top: 20px;
+    position: fixed;
+    display: inline-block;
+}
+.b10{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border: 1px solid rgb(1, 1, 1);
+    box-sizing: border-box;
+    margin-left: 545px;
+    margin-top: 60px;
+    position: fixed;
+    display: inline-block; 
+}

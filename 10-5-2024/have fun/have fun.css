@@ -1,0 +1,19 @@
+body {
+  text-transform: capitalize; /**  Carital Text **/
+}
+
+.color_blue {
+  color: blue;
+}
+
+.a1 {
+  color: yellow;
+}
+
+.a2 {
+  color: red;
+}
+
+.li5 {
+  color: brown;
+}

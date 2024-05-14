@@ -1,0 +1,73 @@
+body{
+
+    text-transform: capitalize;
+background-color: rgb(255, 254, 203);
+}
+
+ 
+
+    
+    
+
+
+.mark1{
+    background-color: rgb(204, 139, 17);
+    font-weight: bold;
+}
+.mark2{
+
+    background-color: rgb(243, 240, 45);
+    font-weight: bold;
+}
+
+.mark22{
+
+    background-color: rgb(231, 228, 63);
+    color: red
+
+
+}
+
+#box1{
+width:80% ;
+    border: 1px solid black;
+    background-color: white;
+    padding: 10px;
+
+}
+
+#box2{
+
+border-style: dashed ;
+width:80% ;
+background-color: white;
+padding: 10px;
+
+}
+
+
+#box3{
+    width:80% ;
+    background-color: white;
+    border: 2px dashed rgb(235, 4, 4);
+    padding: 10px;
+color: red
+
+}
+
+
+#a1border{
+
+    margin-left: 10px;
+    margin-bottom: 20px;
+       width: 96%;
+        border: 2px dashed rgb(235, 4, 4);
+        padding: 10px;
+        
+      
+    }
+
+
+
+
+
