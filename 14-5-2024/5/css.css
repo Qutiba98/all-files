@@ -1,0 +1,45 @@
+
+
+body{
+
+background-color: rgb(185, 221, 131);
+
+}
+
+.grid-container{
+
+
+  background-color: red;
+  margin-left: 250px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% ;
+  grid-template-rows: 25% auto auto auto ;
+  gap: 10px;
+  padding: 23px;
+margin: auto;
+margin-top:100px;
+  padding-right: 10px;
+background-color: rgb(81, 209, 209);
+
+
+width: 20%;
+
+
+}
+
+.item1 {
+background-color: aqua;
+
+}
+
+.item1{
+background-color: rgb(236, 241, 241);
+text-align: center;
+font-size: 35px;
+padding: 10%;
+box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.3);
+
+}

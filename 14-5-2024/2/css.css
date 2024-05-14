@@ -1,0 +1,34 @@
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  gap: 10px;
+  padding: 10px;
+  width: 100%;
+  height: 97vh;
+}
+
+
+.item1{
+background-color: rgb(236, 145, 7);
+grid-area: 1 / 1 / span 1 / span 3;
+}
+
+.item2{
+  background-color: rgb(122, 134, 134);
+  grid-area: 2 / 1 / span 2/ span 2;
+  }
+
+  .item3{
+    background-color: rgb(164, 230, 230);
+    grid-area: 2/ 3 / span 2/ span 1;
+    }
+    .item4{
+      background-color: rgb(154, 189, 58);
+      grid-area: 4/ 1 / span 2/ span 3;
+      }
+    
+
+

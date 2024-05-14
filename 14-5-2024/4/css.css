@@ -1,0 +1,21 @@
+body{
+background-color: rgb(240, 238, 234);
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(60,1fr) ;
+  grid-template-rows: repeat(8,1fr) ;
+gap: 10px;
+  width: 50%;
+height: 97vh;
+text-align: center;
+padding-left: 25%;
+
+}.colums{
+  background-color: rgb(13, 196, 196);
+  color: rgb(240, 238, 234);
+border-radius: 15px;
+padding: 50px;
+font-size: 35px;
+font-weight: bold;
+}
