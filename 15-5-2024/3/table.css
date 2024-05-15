@@ -1,0 +1,76 @@
+
+body{
+
+width: 100%;
+height: 97vh;
+
+
+
+
+}
+
+
+.contener{
+
+  display: flex;
+  background-color: #f1f1f1;
+  width: 90%;
+  height: 50%;
+
+}
+
+
+
+.alltext{
+
+  width: 50%;
+  height: 48vh;
+padding-left: 2%;
+border: 2px solid black;
+
+}
+
+
+a{
+
+color: gray;
+font-size: 15px;
+
+}
+
+#a11{
+
+  font-size: 20px;
+  color: black;
+}
+
+
+img{
+
+width: 100%;
+height: 100%;
+
+}
+
+.b22{
+
+width: 60%;
+height: 11vh;
+padding: 5%;
+display:flex;
+}
+
+.b22 img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+#div22{
+padding-left: 5%;
+padding-top: 5%;
+color: rgb(110, 106, 106);
+}
+#div33{
+  color: grey;
+  }
