@@ -1,0 +1,60 @@
+/* Navbar */
+.navbar-custom {
+    background-color: #cad2d3;
+	
+}
+.navbar-custom .navbar-brand {
+    color: #13c7c4;
+    font-weight: bold;
+}
+.navbar-custom .navbar-toggler {
+    border: none;
+}
+
+
+.navbar-custom .nav-link {
+    color: #504d4d;
+    transition: color 0.3s ease-in-out;
+}
+
+
+.navbar-custom .nav-link:hover {
+    color: #f39f19;
+}
+
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-right: 10px; 
+}
+
+/* con1 */
+
+
+.div11{
+display: flex;
+margin: 2%;
+padding-left: 35%;
+font-size: 20px;
+color: black;
+
+
+.div1{
+    color: green;
+}
+}.div11 div{
+    display: flex;
+    text-align: center;
+    margin: 2%;
+    }
+
+    .div66{
+        padding-left: 20%;
+        font-weight: bold;
+
+    }
