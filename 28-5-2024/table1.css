@@ -1,0 +1,48 @@
+body {
+          margin: 0;
+          padding: 0;
+          background-color: gray;
+      }
+/* QUTIPA */
+      .contener{
+        background-color: #fffcfc;
+        width: 100%;
+      }.bg-image {
+        background-image: url(10.png) ;
+        background-size: cover;
+        background-position: center;
+        height: 80vh;
+        width: 100%;
+     }#app {
+            background: linear-gradient(to left, #cf4dcf, #0000ff);
+        padding: 0px; 
+        width: 100%;
+    }
+    #p1 {
+        font-size: 24px;
+    }
+    #custom-text {
+      font-size: 30px; 
+    padding-top: 20%;
+    padding-left: 17%;
+    font-weight: bold;
+    color: white;
+    filter: brightness(none);}
+    #custom-button {
+      margin-top: 20px; 
+      background-color: rgba(255, 255, 255, 0); 
+      border: none; 
+      color: white; 
+      border: 1px   rgb(255, 255, 255) solid;
+      border-radius: 20px;
+  }.footer {
+  background-color: #0b0b0b;
+  color: #fff;
+  padding: 20px 0;
+  width: 100%;
+  }
+
+  .all_div{
+
+    background: linear-gradient(to left, #cf4dcf, #0000ff);
+  }
