@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+.box {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+.box #img1 {
+    width: 20%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 1px;
+    
+}
+.box-text {
+    margin-bottom: 1%;
+    
+}
+img{
+
+    padding-right: 2%;
+    width: 50%;
+    height: 50vh;
+}
+
+.text_heading{
+
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
