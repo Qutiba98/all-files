@@ -1,0 +1,53 @@
+
+body{
+
+  padding: 10%;
+  text-align: center;
+background-color: #ede9e9;
+}
+
+#h11{
+
+  color: #000;
+  font-size: large;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px; /* مسافة بين البوكسات */
+
+}
+.box {
+  flex: 1; /* يجعل جميع البوكسات بنفس الحجم */
+  border: 1px solid #000;
+  width: 50%;
+  height: 50vh;
+  text-align: center;
+  box-shadow: #000;
+  box-shadow: 10px 10px 5px #888888;
+  background-color: #ffffff;
+
+}
+
+
+h1{
+  color: rgb(61, 47, 217);
+}
+h2{
+
+  color: #000;
+}
+h3{
+  
+}
+
+.img1{
+
+  width: 48%; /* يمكنك تعديل العرض كما تشاء */
+  height: 38%; /* يجب أن يكون الارتفاع مساوياً للعرض للحصول على دائرة مثالية */
+  border-radius: 50%; /* يجعل الصورة دائرية */
+  object-fit: cover; /* يجعل الصورة تتناسب مع الأبعاد المحددة */
+padding-top: 5%;
+
+}
