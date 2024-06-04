@@ -1,0 +1,219 @@
+body {
+  padding: 0%;
+  margin: 0%;
+}
+
+.nav1 {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.nav2 {
+  margin-bottom: 1rem;
+}
+
+.logo {
+  font-size: 50px;
+  font-weight: bold;
+  color: green;
+}
+
+.items {
+  justify-content: center;
+  margin-left: 8rem;
+}
+.icons {
+  margin-right: auto;
+  margin-left: 20rem;
+}
+
+.div1 {
+  background-image: url("fruits.jpg");
+  background-repeat: no-repeat;
+  opacity: 0.7;
+  height: 70vh;
+  width: 100%;
+  margin-bottom: 2rem;
+  position: relative;
+}
+.div1text1 {
+  color: orange;
+  margin-left: 5rem;
+  margin-top: 4rem;
+}
+
+.div1text2 {
+  color: green;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.div1button {
+  margin-left: 5rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+.inputbutton {
+  margin-top: 1rem;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  position: absolute;
+}
+
+.img2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: auto;
+  height: 30vh;
+  width: 30%;
+}
+
+.div2 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 2rem;
+  margin: 5px;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.card {
+  display: grid;
+  background-color: gainsboro;
+  align-items: center;
+  justify-content: center;
+  padding: 8rem;
+  column-gap: 10px;
+}
+
+.div3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+.textdiv3 {
+  display: flex;
+  margin-right: auto;
+}
+
+.four-buttons {
+  display: flex;
+  margin: 2px;
+  border-radius: 50px;
+}
+
+.div4 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: auto auto;
+  column-gap: 5px;
+  row-gap: 5px;
+  padding: 2rem;
+  margin: 5px;
+  height: 100vh;
+  width: 100%;
+}
+.eightcards {
+  background-color: gainsboro;
+  padding: 8rem;
+  border: solid 2px orange;
+}
+
+@media (max-width: 1118px) {
+  .div2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 2rem;
+    margin: 5px;
+    column-gap: 10px;
+    row-gap: 10px;
+  }
+
+  .div4 {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    column-gap: 5px;
+    row-gap: 5px;
+    padding: 2rem;
+    margin: 5px;
+    height: 100vh;
+    width: 100%;
+  }
+}
+
+@media (max-width: 782px) {
+  .div3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 680px) {
+  .div4 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 5px;
+    row-gap: 5px;
+    padding: 2rem;
+    margin: 5px;
+    height: 100vh;
+    width: 100%;
+  }
+}
+
+@media (max-width: 581px) {
+  .div2 {
+    display: grid;
+    grid-template-columns: auto;
+    padding: 2rem;
+    margin: 5px;
+    column-gap: 10px;
+    row-gap: 10px;
+  }
+}
+
+@media (max-width: 1324px) {
+  .div1 {
+    background-image: url(fruits.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    height: 100vh;
+    width: 100%;
+    margin-bottom: 2rem;
+    position: relative;
+  }
+}
+
+@media (max-width: 699px) {
+  .img2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: auto;
+    height: 30vh;
+    width: 30%;
+  }
+}
+
+@media (max-width: 384px) {
+  .inputbutton {
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+  }
+}
